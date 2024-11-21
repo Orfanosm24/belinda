@@ -1,5 +1,15 @@
 field,display_name
-title,Title
+objectid,ID,
+format,Format,
+filename,Filename,
+title,Title,
+author,Creator,
 date,Date
-description,Description
-subject,Subjects
+date_expanded,Date Range,
+pageref,Page Cited,
+citedtext,Passage in Belinda,
+url,Catalog Link,
+interpretation,Interpretive Analysis,
+findingaid,Finding Aid,
+type,Type,
+subject,Subjects,
