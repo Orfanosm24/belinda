@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Literary Itinerary: A Journey into the Mind and Writing of Maria Edgeworth"
+title: "Literary Itinerary"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Exploring 18th century literature in Belinda"
+tagline: "A Journey into the Mind and Writing of Maria Edgeworth"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This digital archive is reflective of the multitude of literary references embedded within the first one hundred pages of one of Maria Edgeworth’s most well-known novels, Belinda. This centralization of her corpus of inspiring literature seeks to recreate the contemporary landscape that informed Edgeworth’s writing process, and yield new discoveries about the source text (i.e. characters, plot formation, foreshadowing) through a closer examination of eighteenth century literature at large. Ideally, it will grant a new perspective on Belinda as a work of formal realism when situated in what was then considered the every day qualities of life and concerns of the time (i.e. inculcating morality in readers, the importance of social formation, and more)."
+description: "This digital archive is reflective of the multitude of literary references embedded within the first one hundred pages of Belinda. This centralization of Edgeworth's corpus of inspiring literature seeks to recreate the contemporary landscape that informed her writing process, and yield new discoveries about the source text as a product of the emergence of formal realism."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Marry Ann Orfanos
 
