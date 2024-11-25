@@ -3,7 +3,7 @@ objectid,ID,
 format,Format,
 filename,Filename,
 title,Title,
-author,Creator,
+creator,Creator,
 date,Date
 date_expanded,Date Range,
 pageref,Page Cited,
