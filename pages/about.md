@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-#About the Archive
+# About the Archive
 
 The essential research question that this digital archive attempts to elucidate is: will the study of eighteenth-century primary sources (e.g. plays, poems, memoirs, etc.) referenced in the explanatory notes of Maria Edgeworth’s *Belinda* provide context as to how and why Edgeworth implemented these texts into her authorial aims (as a morally instructive work about virtue and the parameters of civility), so that a modern researcher/reader can better understand the social and cultural landscape in which the novel is embedded, to further facilitate new insights and a new perspective on how this work is powerfully evocative of formal realism (i.e. the literary mimicking facets of day-to-day life with profound likeness)?
 
