@@ -18,6 +18,6 @@ The edition of Belinda central to this archival reconstruction was released in 2
 
 Edgeworth, Maria. *Belinda*, edited by Linda Bree, Oxford, Oxford University Press, 2020.
 
-[![Belinda Cover](/assets/images/belindacover.jpeg "Belinda")](https://m.media-amazon.com/images/I/91uViy-8wgL._UF1000,1000_QL80_.jpg)
+[![](/assets/img/belindacover.jpeg "Belinda")]
 
 This website was created as a final project for the course “Archives in Action,” and to provide further context for a close reading of eighteenth century literature as explored in another course, “Eighteenth-Century Prose Fiction.” The completion of this project is deeply indebted to the instruction and contributions of my professors, the Digital Scholarship team, and the libraries at Boston College.
