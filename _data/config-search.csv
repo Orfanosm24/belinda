@@ -3,3 +3,4 @@ title,true,true
 date,true,true
 creator,true,false
 subject,true,true
+speaker,true,false
