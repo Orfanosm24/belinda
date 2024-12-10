@@ -2,3 +2,4 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,true,,Creator
 subject,Subjects,true,,Subjects
+speaker,Character Quoted,true,,Character Quoted
