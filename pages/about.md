@@ -16,8 +16,6 @@ My research question was based on my initial impressions and first reading of Be
 
 The edition of Belinda central to this archival reconstruction was released in 2020 as part of the Oxford World’s Classics series, which is cited below:
 
-Edgeworth, Maria. *Belinda*, edited by Linda Bree, Oxford, Oxford University Press, 2020.
-
-![alt text](belindacover.jpeg)
+[Edgeworth, Maria. *Belinda*, edited by Linda Bree, Oxford, Oxford University Press, 2020.] (https://global.oup.com/academic/product/belinda-9780199682133?cc=us&lang=en&)
 
 This website was created as a final project for the course “Archives in Action,” and to provide further context for a close reading of eighteenth century literature as explored in another course, “Eighteenth-Century Prose Fiction.” The completion of this project is deeply indebted to the instruction and contributions of my professors, the Digital Scholarship team, and the libraries at Boston College.
