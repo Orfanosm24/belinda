@@ -1,9 +1,9 @@
 color_class,color
-primary,#F3F3E0
+primary,#608BC1
 secondary,#133E87
 success,
 info,
 warning,
 danger,
 light,
-dark,#608BC1
+dark,#F3F3E0
