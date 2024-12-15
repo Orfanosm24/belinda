@@ -4,4 +4,4 @@ date,true,true
 creator,true,false
 subject,true,true
 speaker,true,false
-objectid,true,false
+objectid,true,true
